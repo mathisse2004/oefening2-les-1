@@ -1,0 +1,14 @@
+body{
+    background-color: deepskyblue;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 4rem;
+    color: white;
+}
+.inspringing{
+    margin-left: 10px;
+}
+img{
+    width: 600px;
+}
